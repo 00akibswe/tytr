@@ -1,2 +1,1 @@
-# tytr
-gggjhkjihu
+#algorithm and data structure
